@@ -15,6 +15,7 @@
 3. результат суммы выводится. 
 
 ### Тестирование
+<img width="404" height="157" alt="image" src="https://github.com/user-attachments/assets/55ca86f8-31c4-4ef7-b441-3df149583bb2" />
 
 Скриншоты результата работы программы
 
